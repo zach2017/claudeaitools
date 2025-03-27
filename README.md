@@ -29,3 +29,15 @@ touch weather.py
 
 # Run app 
 - uv --directory `pwd` run weather.py
+
+# Future
+
+- Web interface
+
+### LangChain-AI
+
+https://langchain-ai.github.io/langgraph/tutorials/introduction/
+
+### AI Web Search Inteface
+
+https://tavily.com/
