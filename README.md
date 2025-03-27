@@ -3,6 +3,10 @@
 
 ## Demo Setup MAC OS
 
+- Source Info on MCP Protocol
+
+https://github.com/modelcontextprotocol
+
 ## Install UV 
 
 - curl -LsSf https://astral.sh/uv/install.sh | sh
